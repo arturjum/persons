@@ -1,0 +1,12 @@
+.card {
+  position: relative;
+  width: 100%;
+  border: 1px solid black;
+}
+
+.del{
+  position: absolute;
+  width: 20px;
+  top: 5px;
+  right: 5px;
+}
